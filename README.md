@@ -5,5 +5,5 @@ Currently, it will print out a report of all the research tasks that are in your
 
 #installation
 1. Copy these files into the corresponding folders on your webtrees installation. 
-2. Visit the "Control panel" -> "Module administration" page and enable the report.
-3. Optionally set the access level in "Control panel" -> "Reports"
+2. Visit the "Control panel" => "Modules" => "Module administration" page and enable the custom module for research tasks report.
+3. Optionally set the access level in "Control panel" => "Modules" => "Reports"
