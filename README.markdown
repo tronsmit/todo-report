@@ -1,5 +1,5 @@
 # todo-report
-Implements a todo report for https://www.webtrees.net
+Implements a todo report for https://www.webtrees.net up to version 1.7.16 (Not suitable for webtrees 2.+)
 
 Currently, it will print out a report of all the research tasks that are in your tree. The title, notes and sources are given for each individual and family that have _TODO facts.
 
