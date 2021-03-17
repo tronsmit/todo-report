@@ -1,11 +1,9 @@
 # todo-report
-Implements a todo report for https://www.webtrees.net up to version 1.7.16 (Not suitable for webtrees 2.+)
+Implements a todo report for https://www.webtrees.net for webtrees 2.x
 
 Currently, it will print out a report of all the research tasks that are in your tree. The title, notes and sources are given for each individual and family that have _TODO facts.
 
-Tested with webtrees 1.7.9 and PHP 7.0.28
+Not tested yet - do not use
 
 ## installation
-1. Copy these files into the corresponding folders on your webtrees installation OR unzip the release into the root of your webtrees installation.
-2. Visit the "Control panel" => "Modules" => "Module administration" page and enable the custom module for research tasks report.
-3. Optionally set the access level in "Control panel" => "Modules" => "Reports"
+1. Copy this to a folder of your choice inside the modules_4 folder
